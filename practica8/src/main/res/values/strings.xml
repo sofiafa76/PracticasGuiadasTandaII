@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticasGuiadas2</string>
+    <string-array name="opcionesalmacenamiento">
+        <item>Interno</item>
+        <item>Externo</item>
+    </string-array>
+</resources>

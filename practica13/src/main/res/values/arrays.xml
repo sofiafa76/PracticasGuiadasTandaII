@@ -1,0 +1,12 @@
+<resources>
+    <string-array name="buscadores">
+        <item>Google</item>
+        <item>Bing</item>
+        <item>Yahoo</item>
+    </string-array>
+    <string-array name="urls">
+        <item>https://www.google.es</item>
+        <item>https://www.bing.com</item>
+        <item>https://www.yahoo.es</item>
+    </string-array>
+</resources>
